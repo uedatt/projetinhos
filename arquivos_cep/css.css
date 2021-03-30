@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right, rgb(4, 236, 128), rgb(163, 243, 33) );
+}
+
+#teste{
+    color: rgb(0, 0, 0);
+}
+
+#but{
+    background-color: rgb(121, 212, 30);
+    border: seagreen;
+    border-radius: 10px ;
+    height: 18px;
+    width: 100px;
+    font-weight: bold;
+}
+
+#cep{
+    border: seagreen;
+    border-radius: 10px;
+}
+
+#info{
+    font-weight: bold;
+}
