@@ -1,0 +1,29 @@
+#pokemg{
+    height: 300px;
+    width: 570px;
+}
+body{
+    background-image: linear-gradient(to right, rgb(240, 71, 71),rgb(245, 174, 42), rgb(250, 250, 66));
+}
+
+#pokename{
+    border-radius: 5px;
+    border-style: hidden;
+    height: 20px;
+    width: 120px;
+    font-weight: bold;
+    
+}
+
+#txt{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+#consulta{
+    border-radius: 5px;
+    background-image: linear-gradient(to right, rgb(240,71,71),rgb(245, 174, 42) );
+    border-style: double;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
